@@ -22,4 +22,4 @@ jobs:
 
     - name: Push the Docker image to Docker Hub
       run: docker push phxlxqq/javaapp:latest
-      
+    
